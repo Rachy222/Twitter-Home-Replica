@@ -3,7 +3,7 @@ This work is a clone of the [Twitter](https://twitter.com/) Home.
 ## Description 
 A responsive single page replica of the Twitter Home page built using HTML & CSS by a team of 5. The task was done to sharpen our individual collaborative skills.
 ## Link
-Live view of the project [here](https://jegedenifemi.github.io/Twitter-Home-Replica/)
+Live view of the project [here](https://rachy222.github.io/Twitter-Home-Replica)
 ## credit
 ### Authors
 Code written by Jegede Nifemi, Christiana Oma, Taofikat Purity, Rachael and Amara Peace.
